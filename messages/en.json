@@ -1,0 +1,9 @@
+{
+    "Index": {
+      "welcome": "Hey there, this is ",
+      "projects":"Projects",
+      "articles":"Articles",
+      "info":"I am an self taught innovative <span class='text-black font-semibold dark:text-white'>JavaScript Developer</span><span class='text-black dark:text-white font-semibold'> with 4 years experience in blending the art of design with the skill of object-oriented programming.</span> To contact me, you may reach out through the social media links provided below or via my email at <a href='mailto:saiful.islam.devs@gmail.com' class='text-black font-semibold dark:text-white underline'>saiful.islam.devs@gmail.com</a>"
+      
+    }
+  }
